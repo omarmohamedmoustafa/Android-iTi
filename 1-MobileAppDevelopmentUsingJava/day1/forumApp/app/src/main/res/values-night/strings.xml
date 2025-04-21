@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numbers">01234567890</string>
+    <string name="message">Message</string>
+    <string name="MobileNum">Mobile Phone Number</string>
+</resources>

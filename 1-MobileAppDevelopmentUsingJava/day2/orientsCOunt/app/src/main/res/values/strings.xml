@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">orientsCOunt</string>
+    <string name="RotationCount">Rotation Count</string>
+    <string name="rots">0</string>
+</resources>

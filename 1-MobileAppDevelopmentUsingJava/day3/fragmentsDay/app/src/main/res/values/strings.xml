@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fragmentsDay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="static_fragment">Hello static fragment</string>
+    <string name="btn">StaticFragmentBtn\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_dynamic_fragment">Hello Dynamic fragment</string>
+    <string name="show_frag">Show Dynamic Fragment</string>
+</resources>
