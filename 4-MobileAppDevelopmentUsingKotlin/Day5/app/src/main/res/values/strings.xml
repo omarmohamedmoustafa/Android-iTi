@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day5</string>
+    <string name="title">Title:</string>
+    <string name="price">Price:</string>
+    <string name="description">Description:</string>
+    <string name="descres">Product description</string>
+    <string name="ratings">Rating:</string>
+    <string name="titleres">Product title</string>
+    <string name="priceres">$0</string>
+    <string name="add_to_fav">Add to Favorites</string>
+</resources>
